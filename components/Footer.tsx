@@ -10,7 +10,7 @@ const Footer = () => {
         <footer className="flex items-center justify-between">
           <p className="text-gray-500">
             Copyright © 2024{" "}
-            <span className="text-darkBlue font-semibold">reactBD</span> all
+            <span className="text-darkBlue font-semibold"></span> all
             rights reserved.
           </p>
           <Image src={payment} alt="payment" className="w-64 object-cover" />
